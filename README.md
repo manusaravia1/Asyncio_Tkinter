@@ -1,6 +1,6 @@
 # ReactiveX, Tkinter y AsyncIO
 
-Aplicación combinando tres herramientas: ReactiveX (rxpy), Tkinter y AsyncIO.
+Aplicación Python combinando tres herramientas: ReactiveX (rxpy), Tkinter y AsyncIO.
 La aplicación consistirá en una ventana gráfica en la que el usuario puede introducir
 una URL. Al introducirla y pulsar el botón de buscar, descargaremos la página web que se
 encuentre en la URL introducida, y de ella, procesaremos todas las imágenes, descargando

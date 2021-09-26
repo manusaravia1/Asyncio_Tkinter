@@ -1,6 +1,5 @@
-# Alumno: Manuel Saravia Enrech
-# INSO-4Z Paradigmas de Programacion
-# Practica 1: ReactiveX (rxpy), Tkinter y AsyncIO.
+# Autor: Manuel Saravia Enrech
+# ReactiveX (rxpy), Tkinter y AsyncIO.
 
 import tkinter as tk
 from tkinter import ttk
